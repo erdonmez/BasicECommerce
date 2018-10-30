@@ -1,0 +1,6 @@
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\Trendyol.com.exe.config
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\Trendyol.com.exe
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\Trendyol.com.pdb
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\Trendyol.com.csprojResolveAssemblyReference.cache
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\Trendyol.com.exe
+c:\users\erdonmez\documents\visual studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\Trendyol.com.pdb

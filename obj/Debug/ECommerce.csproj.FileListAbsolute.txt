@@ -1,0 +1,6 @@
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\ECommerce.exe.config
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\ECommerce.exe
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\bin\Debug\ECommerce.pdb
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\ECommerce.exe
+C:\Users\Erdonmez\Documents\Visual Studio 2017\Projects\Trendyol.com\Trendyol.com\obj\Debug\ECommerce.pdb
